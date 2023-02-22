@@ -8,7 +8,7 @@ I have implented the following Data Structures to familiarize myself with their 
 - [ ] HashTable
 - [ ] HashMap
 - [ ] HashSet
-- [x] Stack
+- [x] [Stack](https://github.com/janielcaday/Stack)
 - [x] Queue
 - [x] Singly Linked List
 - [x] Doubly Linked List
