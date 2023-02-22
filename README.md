@@ -1,9 +1,9 @@
 # Data Structures
 
-##Description:
+## Description:
 I have implented the following Data Structures to familiarize myself with their mechanics.
 
-##Data Structures Implemented:
+## Data Structures Implemented:
 - ArrayList
 - Stack
 - Queue
